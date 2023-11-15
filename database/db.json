@@ -1,0 +1,624 @@
+{
+    "voicelines": [
+        {
+            "voiceline": "“Tchu Tcha Tcha Ru Tchu Tcha...”",
+            "options": ["Styx", "Valena", "Chloe", "Winona", "Memphis"],
+            "rightoption": "Winona"
+        },
+        {
+            "voiceline": "“Eu sou a protetora da floresta.”",
+            "options": ["Renee", "Tigria", "Judith", "Idony", "Orsour"],
+            "rightoption": "Tigria"
+        },
+        {
+            "voiceline": "“Ascenda a minha alma!”",
+            "options": ["Scorpius", "Kyouya", "Styx", "Wulfric", "Morus"],
+            "rightoption": "Styx"
+        },
+        {
+            "voiceline": "“Venham, irmãos corvos! Eu trouxe comida para vocês.”",
+            "options": ["Zoya", "Clawdia", "Scorpius", "Hagen", "Raven"],
+            "rightoption": "Raven"
+        },
+        {
+            "voiceline": "“Você é petulante!”",
+            "options": ["Loth", "Reisa", "Salome", "Nivan", "Oboro"],
+            "rightoption": "Salome"
+        },
+        {
+            "voiceline": "“Não haverá nada além de desespero!”",
+            "options": ["Keth", "Brando", "Scorpius", "Clawdia", "Zoya"],
+            "rightoption": "Keth"
+        },
+        {
+            "voiceline": "“Se a gente não for agora a gente vai ter que brincar sozinho!”",
+            "options": ["Mina", "Chloe", "Idony", "Winona", "Joy"],
+            "rightoption": "Mina"
+        },
+        {
+            "voiceline": "“Eu vim de ~censurado~, da escuridão sem fim.”",
+            "options": ["Brunhild", "Reisa", "Chloe", "Clawdia", "Naraku"],
+            "rightoption": "Naraku"
+        },
+        {
+            "voiceline": "“Isso não é demais?”",
+            "options": ["Judith", "Oboro", "Idony", "Eida", "Joy"],
+            "rightoption": "Eida"
+        },
+        {
+            "voiceline": "“Cuidado! Os ursos estão chegando.”",
+            "options": ["Austeja", "Orsour", "Winona", "Keth", "Nivan"],
+            "rightoption": "Orsour"
+        },
+        {
+            "voiceline": "“Rin Pyo To Sha Kai Jin Retsu Zai Zen.”",
+            "options": ["Naraku", "Oboro", "Winona", "Joy", "Natasha"],
+            "rightoption": "Oboro"
+        },
+        {
+            "voiceline": "“Para de fazer bullying comigo!”",
+            "options": ["Idony", "Aramis", "Keth", "Brando", "Austeja"],
+            "rightoption": "Idony"
+        },
+        {
+            "voiceline": "“Boooom!”",
+            "options": ["Christine", "Renee", "Reisa", "Eida", "Lars"],
+            "rightoption": "Eida"
+        },
+        {
+            "voiceline": "“Eu sou a espada da luz!”",
+            "options": ["Judith", "Christine", "Mikal", "Cleo", "Norah"],
+            "rightoption": "Mikal"
+        },
+        {
+            "voiceline": "“A minha lâmina arrebata almas.”",
+            "options": ["Austeja", "Kyouya", "Styx", "Valena", "Orsour"],
+            "rightoption": "Styx"
+        },
+        {
+            "voiceline": "“A minha lança causará destruição!”",
+            "options": ["Brunhild", "Brando", "Cleo", "Mikal", "Zoya"],
+            "rightoption": "Cleo"
+        },
+        {
+            "voiceline": "“Como todas as mulheres, eu sou uma guerreira!”",
+            "options": ["Christine", "Brunhild", "Valena", "Winona", "Tigria"],
+            "rightoption": "Brunhild"
+        },
+        {
+            "voiceline": "“Sinta o poder do Deus da Guerra!”",
+            "options": ["Renee", "Salome", "Brunhild", "Memphis", "Valena"],
+            "rightoption": "Brunhild"
+        },
+        {
+            "voiceline": "“Kamuy, pega ele!”",
+            "options": ["Mina", "Wulfric", "Lars", "Reisa", "Christine"],
+            "rightoption": "Mina"
+        },
+        {
+            "voiceline": "“Neve, gelo!”",
+            "options": ["Brunhild", "Mina", "Natasha", "Chloe", "Loth"],
+            "rightoption": "Natasha"
+        },
+        {
+            "voiceline": "“A alquimia oferece conhecimento e poder.”",
+            "options": ["Winona", "Joy", "Natasha", "Reisa", "Loth"],
+            "rightoption": "Reisa"
+        },
+        {
+            "voiceline": "“Contemple a sombra da lua!”",
+            "options": ["Valena", "Mina", "Hagen", "Norah", "Nivan"],
+            "rightoption": "Valena"
+        },
+        {
+            "voiceline": "“Voadora!”",
+            "options": ["Brunhild", "Cleo", "Wulfric", "Orsour", "Garsea"],
+            "rightoption": "Garsea"
+        },
+        {
+            "voiceline": "“Deusa Abelha ao seu dispôr.”",
+            "options": ["Austeja", "Chloe", "Loth", "Tigria", "Salome"],
+            "rightoption": "Austeja"
+        },
+        {
+            "voiceline": "“Os hackers vivem escondidos, mas você não precisa.”",
+            "options": ["Aramis", "Renee", "Clawdia", "Brando", "Lars"],
+            "rightoption": "Renee"
+        },
+        {
+            "voiceline": "“Todos somos fantoches no final!”",
+            "options": ["Naraku", "Hagen", "Oboro", "Natasha", "Morus"],
+            "rightoption": "Morus"
+        },
+        {
+            "voiceline": "“Vivemos em um ciclo sem fim.”",
+            "options": ["Orsour", "Nivan", "Garsea", "Wulfric", "Joy"],
+            "rightoption": "Nivan"
+        },
+        {
+            "voiceline": "“Voltei!”",
+            "options": ["Styx", "Lars", "Cleo", "Brando", "Scorpius"],
+            "rightoption": "Lars"
+        },
+        {
+            "voiceline": "“Não é culpa sua. Eles estão te atormentando por ser gentil.”",
+            "options": ["Brando", "Lars", "Judith", "Mikal", "Reisa"],
+            "rightoption": "Brando"
+        },
+        {
+            "voiceline": "“Mirarei apenas em quem merecer a morte.”",
+            "options": ["Austeja", "Tigria", "Aramis", "Adele", "Scorpius"],
+            "rightoption": "Adele"
+        },
+        {
+            "voiceline": "“Homúnculo!”",
+            "options": ["Styx", "Raven", "Lars", "Reisa", "Natasha"],
+            "rightoption": "Reisa"
+        },
+        {
+            "voiceline": "“Essa cruel missão nunca acaba.”",
+            "options": ["Norah", "Wulfric", "Scorpius", "Hagen", "Morus"],
+            "rightoption": "Scorpius"
+        },
+        {
+            "voiceline": "“Eu sou demais!”",
+            "options": ["Aramis", "Lars", "Raven", "Cleo", "Garsea"],
+            "rightoption": "Aramis"
+        },
+        {
+            "voiceline": "“Que tal um presentinho? PÁ!”",
+            "options": ["Xenon", "Raven", "Adele", "Winona", "Salome"],
+            "rightoption": "Adele"
+        },
+        {
+            "voiceline": "“Eu sou a sombra que vai te matar.”",
+            "options": ["Oboro", "Kyouya", "Clawdia", "Zoya", "Naraku"],
+            "rightoption": "Zoya"
+        },
+        {
+            "voiceline": "“Sinta as minhas garras!”",
+            "options": ["Orsour", "Raven", "Tigria", "Clawdia", "Norah"],
+            "rightoption": "Clawdia"
+        },
+        {
+            "voiceline": "“O gigante voltou!”",
+            "options": ["Wulfric", "Mikal", "Memphis", "Cleo", "Garsea"],
+            "rightoption": "Memphis"
+        },
+        {
+            "voiceline": "“Sangue! Quero mais sangue!”",
+            "options": ["Styx", "Clawdia", "Brando", "Morus", "Kyouya"],
+            "rightoption": "Clawdia"
+        },
+        {
+            "voiceline": "“Perderam a cabeça, foi?”",
+            "options": ["Mina", "Natasha", "Reisa", "Salome", "Joy"],
+            "rightoption": "Salome"
+        },
+        {
+            "voiceline": "“Eu me vingarei de todos vocês!”",
+            "options": ["Brando", "Xenon", "Keth", "Adele", "Reisa"],
+            "rightoption": "Keth"
+        },
+        {
+            "voiceline": "“Ajoelhe-se! É uma ordem!”",
+            "options": ["Adele", "Xenon", "Austeja", "Salome", "Loth"],
+            "rightoption": "Loth"
+        },
+        {
+            "voiceline": "“Estou cansado de tantas mortes, preciso de férias.”",
+            "options": ["Xenon", "Styx", "Scorpius", "Hagen", "Morus"],
+            "rightoption": "Hagen"
+        },
+        {
+            "voiceline": "“Eu luto em nome da luz!”",
+            "options": ["Mikal", "Christine", "Norah", "Hagen", "Judith"],
+            "rightoption": "Christine"
+        },
+        {
+            "voiceline": "“Confesse!”",
+            "options": ["Judith", "Reisa", "Adele", "Joy", "Salome"],
+            "rightoption": "Judith"
+        },
+        {
+            "voiceline": "“Eu sou forte como um urso.”",
+            "options": ["Wulfric", "Orsour", "Memphis", "Zoya", "Naraku"],
+            "rightoption": "Orsour"
+        },
+        {
+            "voiceline": "“Meu coração é mais forte do que o metal.”",
+            "options": ["Xenon", "Adele", "Lars", "Memphis", "Norah"],
+            "rightoption": "Norah"
+        },
+        {
+            "voiceline": "“É guerra que você quer? Então prepare-se!”",
+            "options": ["Wulfric", "Mina", "Memphis", "Valena", "Austeja"],
+            "rightoption": "Wulfric"
+        },
+        {
+            "voiceline": "“Isso não é uma dança e sim um combate!”",
+            "options": ["Garsea", "Salome", "Oboro", "Zoya", "Brunhild"],
+            "rightoption": "Garsea"
+        },
+        {
+            "voiceline": "“Melhor você não me entendiar, senão...”",
+            "options": ["Cleo", "Raven", "Winona", "Renee", "Xenon"],
+            "rightoption": "Xenon"
+        },
+        {
+            "voiceline": "“Siga a Ordem da Meia-Noite!”",
+            "options": ["Zoya", "Oboro", "Valena", "Kyouya", "Mikal"],
+            "rightoption": "Oboro"
+        },
+        {
+            "voiceline": "“Curioso com a minha maleta? Quer ver o que tem dentro?”",
+            "options": ["Brunhild", "Mina", "Joy", "Aramis", "Loth"],
+            "rightoption": "Joy"
+        },
+        {
+            "voiceline": "“Você não tem autoridade para falar comigo!”",
+            "options": ["Styx", "Xenon", "Scorpius", "Nivan", "Eida"],
+            "rightoption": "Xenon"
+        },
+        {
+            "voiceline": "“Gelo e neve marcarão a sua ruína!”",
+            "options": ["Natasha", "Lars", "Raven", "Cleo", "Garsea"],
+            "rightoption": "Natasha"
+        },
+        {
+            "voiceline": "“Se me encarar muito, vai se apaixonar.”",
+            "options": ["Zoya", "Aramis", "Adele", "Oboro", "Salome"],
+            "rightoption": "Salome"
+        },
+        {
+            "voiceline": "“Eu te levarei às trevas!”",
+            "options": ["Raven", "Lars", "Brando", "Zoya", "Reisa"],
+            "rightoption": "Raven"
+        },
+        {
+            "voiceline": "“A bateria é o instrumento mais descolado e eu sou o baterista mais descolado!”",
+            "options": ["Styx", "Kyouya", "Lars", "Clawdia", "Norah"],
+            "rightoption": "Lars"
+        },
+        {
+            "voiceline": "“Eu sou o estopim de uma nova era!",
+            "options": ["Cleo", "Mikal", "Memphis", "Renee", "Garsea"],
+            "rightoption": "Renee"
+        },
+        {
+            "voiceline": "“Novos figurinos e adereços pro show! Ai, não são lindos?”",
+            "options": ["Renee", "Chloe", "Idony", "Winona", "Joy"],
+            "rightoption": "Chloe"
+        },
+        {
+            "voiceline": "“Decodificado!”",
+            "options": ["Valena", "Reisa", "Renee", "Naraku", "Mikal"],
+            "rightoption": "Renee"
+        },
+        {
+            "voiceline": "“Tô com fome... vamo acabar com isso.”",
+            "options": ["Aramis", "Wulfric", "Raven", "Clawdia", "Reisa"],
+            "rightoption": "Reisa"
+        },
+        {
+            "voiceline": "“Ah... finalmente...”",
+            "options": ["Brunhild", "Lars", "Scorpius", "Raven", "Styx"],
+            "rightoption": "Styx"
+        },
+        {
+            "voiceline": "“Dessa vez, me deixe acabar com você meu amor...”",
+            "options": ["Naraku", "Oboro", "Kyouya", "Styx", "Zoya"],
+            "rightoption": "Naraku"
+        },
+        {
+            "voiceline": "“O vento me disse, que havia uma tempestade chegando.”",
+            "options": ["Natasha", "Nivan", "Reisa", "Brando", "Garsea"],
+            "rightoption": "Natasha"
+        },
+        {
+            "voiceline": "“A lua... escureceu...”",
+            "options": ["Zoya", "Valena", "Adele", "Christine", "Judith"],
+            "rightoption": "Valena"
+        },
+        {
+            "voiceline": "“Querem ser meus mascotes? Tenho bastante comida.”",
+            "options": ["Raven", "Lars", "Brando", "Winona", "Idony"],
+            "rightoption": "Idony"
+        },
+        {
+            "voiceline": "“Ajoelhe-se para a alquimia, ela vale mais do que você!”",
+            "options": ["Lars", "Chloe", "Reisa", "Clawdia", "Joy"],
+            "rightoption": "Reisa"
+        },
+        {
+            "voiceline": "“A glória se foi, deixando apenas tristeza e luto.",
+            "options": ["Cleo", "Mikal", "Wulfric", "Adele", "Brando"],
+            "rightoption": "Brando"
+        },
+        {
+            "voiceline": "“Não precisa dar um chilique, é só o espaço se dobrando!”",
+            "options": ["Renee", "Chloe", "Winona", "Hagen", "Joy"],
+            "rightoption": "Joy"
+        },
+        {
+            "voiceline": "“Vagar por aí pode ser perigoso, as vezes eu trabalho de... dançarino, pra ter dinheiro pra viagem.”",
+            "options": ["Cleo", "Lars", "Garsea", "Aramis", "Kyouya"],
+            "rightoption": "Garsea"
+        },
+        {
+            "voiceline": "“Vou dar-lhes um tormento pior do que a morte.”",
+            "options": ["Garsea", "Norah", "Raven", "Brando", "Valena"],
+            "rightoption": "Brando"
+        },
+        {
+            "voiceline": "“Cortem-lhe a cabeça!”",
+            "options": ["Salome", "Loth", "Brunhild", "Christine", "Clawdia"],
+            "rightoption": "Loth"
+        },
+        {
+            "voiceline": "“Eu estou sentindo uma presença.”",
+            "options": ["Adele", "Valena", "Tigria", "Idony", "Eida"],
+            "rightoption": "Adele"
+        },
+        {
+            "voiceline": "“Mercenário? Eu sou um visconde!”",
+            "options": ["Lars", "Aramis", "Scorpius", "Cleo", "Garsea"],
+            "rightoption": "Aramis"
+        },
+        {
+            "voiceline": "“Eu? Pareço um inseto? Caramba! Essa é a aparência da superioridade?!”",
+            "options": ["Brando", "Orsour", "Wulfric", "Xenon", "Memphis"],
+            "rightoption": "Xenon"
+        },
+        {
+            "voiceline": "“A morte é um presente das sombras.”",
+            "options": ["Raven", "Clawdia", "Renee", "Zoya", "Styx"],
+            "rightoption": "Zoya"
+        },
+        {
+            "voiceline": "“Luz e escuridão caminham lado a lado.”",
+            "options": ["Styx", "Kyouya", "Hagen", "Nivan", "Norah"],
+            "rightoption": "Hagen"
+        },
+        {
+            "voiceline": "“Eu não gosto de palhaços, eles roubam o nosso trabalho!",
+            "options": ["Chloe", "Idony", "Reisa", "Joy", "Winona"],
+            "rightoption": "Chloe"
+        },
+        {
+            "voiceline": "“Não perca a fé.”",
+            "options": ["Judith", "Mikal", "Christine", "Scorpius", "Norah"],
+            "rightoption": "Mikal"
+        },
+        {
+            "voiceline": "“A destruição faz parte da harmonia.”",
+            "options": ["Valena", "Nivan", "Renee", "Naraku", "Mikal"],
+            "rightoption": "Nivan"
+        },
+        {
+            "voiceline": "“Apareça, covarde!”",
+            "options": ["Aramis", "Wulfric", "Cleo", "Mikal", "Garsea"],
+            "rightoption": "Wulfric"
+        },
+        {
+            "voiceline": "“Sigam a bandeira!”",
+            "options": ["Brunhild", "Renee", "Christine", "Wulfric", "Loth"],
+            "rightoption": "Wulfric"
+        },
+        {
+            "voiceline": "“Ataque de língua!”",
+            "options": ["Eida", "Clawdia", "Mina", "Natasha", "Idony"],
+            "rightoption": "Mina"
+        },
+        {
+            "voiceline": "“É proibido se separar, principalmente no dia dos namorados.”",
+            "options": ["Salome", "Oboro", "Renee", "Naraku", "Brando"],
+            "rightoption": "Oboro"
+        },
+        {
+            "voiceline": "“Atrás de você imbecil!”",
+            "options": ["Zoya", "Aramis", "Adele", "Raven", "Kyouya"],
+            "rightoption": "Raven"
+        },
+        {
+            "voiceline": "“Sutil, como o vento.”",
+            "options": ["Judith", "Kyouya", "Nivan", "Mina", "Styx"],
+            "rightoption": "Kyouya"
+        },
+        {
+            "voiceline": "“Lembre-se: O mel é mais doce do que o sangue.”",
+            "options": ["Austeja", "Idony", "Eida", "Clawdia", "Norah"],
+            "rightoption": "Austeja"
+        },
+        {
+            "voiceline": "“Eu te perdoo. Estou de volta!",
+            "options": ["Judith", "Brando", "Memphis", "Chloe", "Garsea"],
+            "rightoption": "Judith"
+        },
+        {
+            "voiceline": "“Isso é pelo meu mestre!”",
+            "options": ["Styx", "Garsea", "Kyouya", "Norah", "Joy"],
+            "rightoption": "Norah"
+        },
+        {
+            "voiceline": "“Sinta a força do vento!”",
+            "options": ["Valena", "Nivan", "Tigria", "Oboro", "Garsea"],
+            "rightoption": "Tigria"
+        },
+        {
+            "voiceline": "“A cura que a morte trás não pode ser explicada.”",
+            "options": ["Scorpius", "Brunhild", "Tigria", "Hagen", "Reisa"],
+            "rightoption": "Scorpius"
+        },
+        {
+            "voiceline": "“Que rufem os tambores!”",
+            "options": ["Brunhild", "Mina", "Joy", "Aramis", "Loth"],
+            "rightoption": "Brunhild"
+        },
+        {
+            "voiceline": "“Tão fraco e inútil...”",
+            "options": ["Styx", "Xenon", "Naraku", "Nivan", "Valena"],
+            "rightoption": "Naraku"
+        },
+        {
+            "voiceline": "“Que foi, Big White, farejou alguma coisa?”",
+            "options": ["Natasha", "Lars", "Raven", "Cleo", "Tigria"],
+            "rightoption": "Tigria"
+        },
+        {
+            "voiceline": "“Não esquece de mim!”",
+            "options": ["Idony", "Joy", "Cleo", "Reisa", "Eida"],
+            "rightoption": "Eida"
+        },
+        {
+            "voiceline": "“Farei com que haja justiça!”",
+            "options": ["Christine", "Lars", "Brando", "Zoya", "Reisa"],
+            "rightoption": "Christine"
+        },
+        {
+            "voiceline": "“Lança mortal!”",
+            "options": ["Styx", "Cleo", "Kyouya", "Mikal", "Wulfric"],
+            "rightoption": "Cleo"
+        },
+        {
+            "voiceline": "“Venha luz sagrada!",
+            "options": ["Xenon", "Mikal", "Memphis", "Renee", "Judith"],
+            "rightoption": "Judith"
+        },
+        {
+            "voiceline": "“Vou te estraçalhar!”",
+            "options": ["Adele", "Natasha", "Clawdia", "Winona", "Brunhild"],
+            "rightoption": "Clawdia"
+        },
+        {
+            "voiceline": "“Vamo lá, gente! Vamos sacudir esse lugar!”",
+            "options": ["Lars", "Winona", "Chloe", "Eida", "Aramis"],
+            "rightoption": "Lars"
+        },
+        {
+            "voiceline": "“Antes morrer pela luz, do que ser consumido pelas trevas.”",
+            "options": ["Aramis", "Christine", "Raven", "Joy", "Reisa"],
+            "rightoption": "Christine"
+        },
+        {
+            "voiceline": "“De um em um...”",
+            "options": ["Chloe", "Morus", "Lars", "Brando", "Zoya"],
+            "rightoption": "Morus"
+        },
+        {
+            "voiceline": "“Cadê aquele inseto com as lâminas gêmeas?”",
+            "options": ["Brando", "Clawdia", "Valena", "Tigria", "Xenon"],
+            "rightoption": "Brando"
+        },
+        {
+            "voiceline": "“Isso que dá não seguir as regras!”",
+            "options": ["Morus", "Hagen", "Mikal", "Brando", "Styx"],
+            "rightoption": "Brando"
+        },
+        {
+            "voiceline": "“Eu descerei como um deus!”",
+            "options": ["Morus", "Raven", "Aramis", "Valena", "Xenon"],
+            "rightoption": "Morus"
+        },
+        {
+            "voiceline": "“Estou aqui respondendo ao seu chamado.”",
+            "options": ["Tigria", "Reisa", "Natasha", "Kyouya", "Austeja"],
+            "rightoption": "Austeja"
+        },
+        {
+            "voiceline": "“O abismo de ~censurado~ te aguarda...”",
+            "options": ["Lars", "Orsour", "Morus", "Styx", "Wulfric"],
+            "rightoption": "Styx"
+        },
+        {
+            "voiceline": "“Corram! O protetor da floresta chegou!”",
+            "options": ["Garsea", "Orsour", "Idony", "Eida", "Tigria"],
+            "rightoption": "Orsour"
+        },
+        {
+            "voiceline": "“10 pontos pro meu grimório!”",
+            "options": ["Chloe", "Winona", "Judith", "Nivan", "Eida"],
+            "rightoption": "Winona"
+        },
+        {
+            "voiceline": "“Excesso de bondade é sinal de fraqueza.”",
+            "options": ["Renee", "Judith", "Mikal", "Christine", "Nivan"],
+            "rightoption": "Nivan"
+        },
+        {
+            "voiceline": "“Hoje a vitória será nossa!”",
+            "options": ["Wulfric", "Brunhild", "Mikal", "Cleo", "Orsour"],
+            "rightoption": "Wulfric"
+        },
+        {
+            "voiceline": "“Ha-Ia!”",
+            "options": ["Chloe", "Winona", "Oboro", "Natasha", "Naraku"],
+            "rightoption": "Natasha"
+        },
+        {
+            "voiceline": "“Auuuuuu Auuuu...”",
+            "options": ["Orsour", "Raven", "Clawdia", "Lars", "Aramis"],
+            "rightoption": "Clawdia"
+        },
+        {
+            "voiceline": "“Nenhum firewall me mantém de fora.”",
+            "options": ["Renee", "Joy", "Reisa", "Valena", "Tigria"],
+            "rightoption": "Renee"
+        },
+        {
+            "voiceline": "“Atiradores não devem se expôr.”",
+            "options": ["Memphis", "Mina", "Judith", "Morus", "Adele"],
+            "rightoption": "Adele"
+        },
+        {
+            "voiceline": "“Minha mira é fatal.”",
+            "options": ["Scorpius", "Oboro", "Adele", "Renee", "Orsour"],
+            "rightoption": "Adele"
+        },
+        {
+            "voiceline": "“Lutarei em nome de meu Deus.”",
+            "options": ["Memphis", "Norah", "Mikal", "Judith", "Christine"],
+            "rightoption": "Memphis"
+        },
+        {
+            "voiceline": "“Fácil como caçar coelhinhos.”",
+            "options": ["Idony", "Adele", "Eida", "Brunhild", "Memphis"],
+            "rightoption": "Adele"
+        },
+        {
+            "voiceline": "“Ah.. que gosto bom...”",
+            "options": ["Lars", "Loth", "Austeja", "Salome", "Naraku"],
+            "rightoption": "Salome"
+        },
+        {
+            "voiceline": "“Eu tenho esperança!”",
+            "options": ["Brando", "Judith", "Winona", "Oboro", "Norah"],
+            "rightoption": "Judith"
+        },
+        {
+            "voiceline": "“É humilhante andar nessa terra imunda.”",
+            "options": ["Styx", "Morus", "Loth", "Adele", "Kyouya"],
+            "rightoption": "Loth"
+        },
+        {
+            "voiceline": "“Adagas das sombras.”",
+            "options": ["Naraku", "Zoya", "Loth", "Oboro", "Valena"],
+            "rightoption": "Zoya"
+        },
+        {
+            "voiceline": "“Machadada!”",
+            "options": ["Mina", "Raven", "Memphis", "Wulfric", "Aramis"],
+            "rightoption": "Wulfric"
+        },
+        {
+            "voiceline": "“Chegou a hora! Sejam bem-vindos ao grande funeral!”",
+            "options": ["Wulfric", "Cleo", "Hagen", "Lars", "Raven"],
+            "rightoption": "Raven"
+        },
+        {
+            "voiceline": "“Avançar!”",
+            "options": ["Tigria", "Cleo", "Wulfric", "Valena", "Aramis"],
+            "rightoption": "Cleo"
+        }
+    ]
+}
