@@ -2,10 +2,9 @@
   <div id="main">
     <div id="game-box">
       <div id="box-header">
-        <RouterLink id="link" to="/">←</RouterLink>
-        <span>{{ challenge + 1 }}/{{ challenges.length }}</span>
+        <span id="link"><small-button :close="true" /></span>
+        <span>{{ challenge }}/{{ challenges.length }}</span>
       </div>
-
       <div id="div-voice-line">
         <voice-line-box :voiceline="voiceline" />
       </div>
@@ -13,16 +12,16 @@
         <options-list :imgs="imgs" :rightAnswer="right_option" @mistake="gameOver" @hit="gameContinue" />
       </div>
     </div>
-    <game-over-modal v-show="showGameOverModal" />
-    <game-winner-modal v-show="showGameWinnerModal" />
+    <game-over-modal v-show="showGameOverModal" text="DERROTA"/>
+    <game-over-modal v-show="showGameWinnerModal" text="VITÓRIA"/>
   </div>
 </template>
 <script>
-import db from '../../database/db.json'
+import db from '../../database/voicelines.json'
 import VoiceLineBox from '@/components/VoiceLineBox'
 import OptionsList from '@/components/OptionsList'
 import GameOverModal from '@/components/GameOverModal.vue'
-import GameWinnerModal from '@/components/GameWinnerModal.vue'
+import SmallButton from '@/components/SmallButton.vue'
 
 export default {
   name: 'Game1',
@@ -30,7 +29,7 @@ export default {
     VoiceLineBox,
     OptionsList,
     GameOverModal,
-    GameWinnerModal
+    SmallButton
   },
   data() {
     return {
@@ -69,11 +68,13 @@ export default {
     },
     setupImgs() {
       this.imgs = []
+
+      setTimeout(() => 
       this.options.map((item) => {
           this.imgs.push({
               link: process.env.BASE_URL + "heroes_portrait/" + item + ".png",
               name: item
-          })}) 
+          })}), 300)
     },
     setupAudios() {
       this.audioWinner = new Audio(process.env.BASE_URL + "audio/winner-sound.mp3")
@@ -89,12 +90,12 @@ export default {
       this.showGameOverModal = true
     },
     gameContinue() {
-      if(this.challenge === this.challenges.length - 1) {
+      this.challenge += 1
+      if(this.challenge === this.challenges.length) {
         this.playAudio(this.audioWinner)
         this.showGameWinnerModal = true
       } else {
         this.playAudio(this.audioBtn)
-        this.challenge += 1
         this.updateGameState()
       }
     },
@@ -122,6 +123,10 @@ export default {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-image: url('@/assets/login_battlepass02.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
 }
 
 #game-box {
@@ -151,6 +156,7 @@ export default {
   align-items: center;
   justify-content: space-between;
   font-weight: bolder;
+  margin-bottom: 5px;
 }
 
 #div-options-list {

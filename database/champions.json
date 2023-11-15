@@ -1,0 +1,168 @@
+{
+    "champions": [
+        {
+            "name": "Adele",
+            "skins": ["Adele", "Adele_Guardia_do_Oceano"]
+        },
+        {
+            "name": "Aramis",
+            "skins": ["Aramis", "Aramis_Caçador_Purpura", "Aramis_Mosqueteiro_Abençoado"]
+        },
+        {
+            "name": "Austeja",
+            "skins": ["Austeja"]
+        },
+        {
+            "name": "Brando",
+            "skins": ["Brando"]
+        },
+        {
+            "name": "Brunhild",
+            "skins": ["Brunhild", "Brunhild_Marinheira"]
+        },
+        {
+            "name": "Chloe",
+            "skins": ["Chloe", "Chloe_Estrela_do_Circo"]
+        },
+        {
+            "name": "Christine",
+            "skins": ["Christine", "Christine_Inquisidora_do_Mal"]
+        },
+        {
+            "name": "Clawdia",
+            "skins": ["Clawdia", "Clawdia_Baile_do_Despertar"]
+        },
+        {
+            "name": "Cleo",
+            "skins": ["Cleo", "Cleo_Vanguarda_Real"]
+        },
+        {
+            "name": "Eida",
+            "skins": ["Eida", "Eida_Defensora_da_Floresta"]
+        },
+        {
+            "name": "Garsea",
+            "skins": ["Garsea"]
+        },
+        {
+            "name": "Hagen",
+            "skins": ["Hagen", "Hagen_O_Setimo_Apostolo"]
+        },
+        {
+            "name": "Idony",
+            "skins": ["Idony", "Idony_Atiradora_Ciano", "Idony_Lua_Nova", "Idony_Princesa_Aventureira"]
+        },
+        {
+            "name": "Joy",
+            "skins": ["Joy"]
+        },
+        {
+            "name": "Judith",
+            "skins": ["Judith", "Judith_Donzela_Inocente"]
+        },
+        {
+            "name": "Keth",
+            "skins": ["Keth", "Keth_Fogo_Fatuo"]
+        },
+        {
+            "name": "Kyouya",
+            "skins": ["Kyouya", "Kyouya_Assassino_Frio"]
+        },
+        {
+            "name": "Lars",
+            "skins": ["Lars"]
+        },
+        {
+            "name": "Loth",
+            "skins": ["Loth", "Loth_Rainha_Tirana"]
+        },
+        {
+            "name": "Memphis",
+            "skins": ["Memphis", "Memphis_Cavaleiro_Romantico"]
+        },
+        {
+            "name": "Mikal",
+            "skins": ["Mikal", "Mikal_Centuriao_Lendario", "Mikal_Nascer_do_Sol_Glorioso"]
+        },
+        {
+            "name": "Mina",
+            "skins": ["Mina"]
+        },
+        {
+            "name": "Morus",
+            "skins": ["Morus", "Morus_Feiticeiro_de_Magma"]
+        },
+        {
+            "name": "Naraku",
+            "skins": ["Naraku"]
+        },
+        {
+            "name": "Natasha",
+            "skins": ["Natasha"]
+        },
+        {
+            "name": "Nivan",
+            "skins": ["Nivan", "Nivan_Mestre Dharma"]
+        },
+        {
+            "name": "Norah",
+            "skins": ["Norah", "Norah_Quebra-Gelo"]
+        },
+        {
+            "name": "Oboro",
+            "skins": ["Oboro", "Oboro_Kunoichi"]
+        },
+        {
+            "name": "Orsour",
+            "skins": ["Orsour", "Orsour_Druida_das_Runas"]
+        },
+        {
+            "name": "Raven",
+            "skins": ["Raven", "Raven_Principe_Exotico"]
+        },
+        {
+            "name": "Reisa",
+            "skins": ["Reisa", "Reisa_ Aprendiz_Argente"]
+        },
+        {
+            "name": "Renee",
+            "skins": ["Renee"]
+        },
+        {
+            "name": "Salome",
+            "skins": ["Salome", "Salome_Diva_Dançante"]
+        },
+        {
+            "name": "Scorpius",
+            "skins": ["Scorpius", "Scorpius_Caçador_de_Bruxas"]
+        },
+        {
+            "name": "Styx",
+            "skins": ["Styx", "Styx_Draconico", "Styx_Lamina_Corrompida"]
+        },
+        {
+            "name": "Tigria",
+            "skins": ["Tigria", "Tigria_Guardia_da_Floresta"]
+        },
+        {
+            "name": "Valena",
+            "skins": ["Valena", "Valena_Loira", "Valena_Miko_Lunar"]
+        },
+        {
+            "name": "Winona",
+            "skins": ["Winona", "Winona_Dama_do_Mal"]
+        },
+        {
+            "name": "Wulfric",
+            "skins": ["Wulfric", "Wulfric_Lutador_Letal"]
+        },
+        {
+            "name": "Xenon",
+            "skins": ["Xenon", "Xenon_ Arauto_Cataclismico"]
+        },
+        {
+            "name": "Zoya",
+            "skins": ["Zoya", "Zoya_Lamina_Espectral"]
+        }
+    ]
+}

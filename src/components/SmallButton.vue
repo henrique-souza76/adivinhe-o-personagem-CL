@@ -1,27 +1,28 @@
 <template>
     <button v-show="retry" @click="reloadPage">↻</button>
+    <button v-show="close" @click="redirectToHome">←</button>
 </template>
 <script>
 export default {
     name: 'SmallButton',
     props: {
-        id: Number,
-        levelSelect: Boolean,
-        txt: String,
         retry: Boolean,
         close: Boolean
     },
     methods: {
         reloadPage() {
             location.reload()
+        },
+        redirectToHome() {
+            this.$router.push({name: "home"})
         }
     }
 }
 </script>
 <style scoped>
 button {
-    width: 30px;
-    height: 30px;
+    width: 35px;
+    height: 35px;
     border: none;
     background-color: #3F85DD;
     border-radius: 10px;

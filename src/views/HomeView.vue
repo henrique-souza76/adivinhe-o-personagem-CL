@@ -26,6 +26,10 @@ export default {
 #home {
   width: 100%;
   height: 100vh;
+  background-image: url('@/assets/cl_background-image.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
 }
 
 #title {

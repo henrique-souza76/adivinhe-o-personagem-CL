@@ -1,9 +1,10 @@
 <template>
 <div id="backdrop">
     <div id="main-modal">
-        <h1>GAME OVER</h1>
-        <div id="retry-button-div">
+        <h1>{{text}}</h1>
+        <div id="button-div">
             <small-button :retry="true" />
+            <small-button :close="true" />
         </div>
     </div>
 </div>
@@ -14,7 +15,8 @@ import SmallButton from '@/components/SmallButton.vue'
 export default {
     name: 'GameOverModal',
     props: {
-        id: Number
+        id: Number,
+        text: String
     },
     components: {
         SmallButton
@@ -45,7 +47,10 @@ export default {
     flex-direction: column;
 }
 
-#retry-button-div {
-    margin: 20% auto;
+#button-div {
+    margin: 15% auto;
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
 </style>

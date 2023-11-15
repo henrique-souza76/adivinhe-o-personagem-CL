@@ -24,8 +24,5 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  background-image: url('@/assets/cl_background-image.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 </style>

@@ -16,6 +16,6 @@ footer {
     text-align: center;
     color: #fff;
     max-height: 100px;
-    padding: 3% 0;
+    padding: 3% 5px;
 }
 </style>
