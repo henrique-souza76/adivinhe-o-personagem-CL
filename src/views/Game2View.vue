@@ -22,8 +22,8 @@
       </div>
       <span id="link"><small-button :close="true"/></span>
     </div>
-    <game-over-modal v-show="showGameOverModal" text="DERROTA"/>
-    <game-over-modal v-show="showGameWinnerModal" text="VITÓRIA"/>
+    <game-over-modal v-show="showGameOverModal" text="DERROTA" receiver="game2"/>
+    <game-over-modal v-show="showGameWinnerModal" text="VITÓRIA" receiver="game2"/>
   </div>
 </template>
 <script>
@@ -47,7 +47,7 @@ export default {
       input_champion: "",
       showGameOverModal: false,
       showGameWinnerModal: false,
-      health_points: [1, 1, 1, 1, 1],
+      health_points: [1, 1, 1],
       health_point_link: process.env.BASE_URL + "extra_media/" + "coracao-azul.png",
       scaleClass: "scale9",
       audioWinner: false,
@@ -88,10 +88,8 @@ export default {
     },
     setupSkinScale() {
       switch(this.health_points.length) {
-        case 4: this.scaleClass = "scale8"; break;
-        case 3: this.scaleClass = "scale7"; break;
-        case 2: this.scaleClass = "scale6"; break;
-        case 1: this.scaleClass = "scale5"; break;
+        case 2: this.scaleClass = "scale8"; break;
+        case 1: this.scaleClass = "scale7"; break;
         default: break;
       }
     },
@@ -129,7 +127,10 @@ export default {
   width: 500px;
   min-height: fit-content;
   height: 60vh;
-  background-color: #fff;
+  background-image: url('@/assets/background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
   padding: 10px;
   display: flex;
   flex-direction: column;
@@ -139,32 +140,32 @@ export default {
 }
 
 #skin {
+  position: relative;
   overflow: hidden;
   width: 500px;
   height: 40vh;
   display: flex;
   align-items: center;
   justify-content: center;
+  border: 2px solid white;
+}
+
+#skin > img {
+  position: absolute;
+  bottom: 0;
+  left: 0;
 }
 
 .scale9 {
-  transform: scale(8.5);
+  transform: scale(2.2);
 }
 
 .scale8 {
-  transform: scale(7.25);
+  transform: scale(1.8);
 }
 
 .scale7 {
-  transform: scale(6);
-}
-
-.scale6 {
-  transform: scale(4.75);
-}
-
-.scale5 {
-  transform: scale(3.5);
+  transform: scale(1.4);
 }
 
 #input {

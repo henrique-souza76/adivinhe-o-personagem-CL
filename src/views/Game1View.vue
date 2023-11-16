@@ -12,8 +12,8 @@
         <options-list :imgs="imgs" :rightAnswer="right_option" @mistake="gameOver" @hit="gameContinue" />
       </div>
     </div>
-    <game-over-modal v-show="showGameOverModal" text="DERROTA"/>
-    <game-over-modal v-show="showGameWinnerModal" text="VITÓRIA"/>
+    <game-over-modal v-show="showGameOverModal" text="DERROTA" receiver="game1"/>
+    <game-over-modal v-show="showGameWinnerModal" text="VITÓRIA" receiver="game1"/>
   </div>
 </template>
 <script>
@@ -131,6 +131,10 @@ export default {
 
 #game-box {
   position: absolute;
+  background-image: url('@/assets/background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
   min-width: 350px;
   width: 500px;
   min-height: fit-content;
@@ -147,7 +151,6 @@ export default {
   font-weight: bolder;
   font-size: 30px;
   text-decoration: none;
-  color: rgba(0, 0, 0, 0.637);
 }
 
 #box-header {
@@ -157,6 +160,7 @@ export default {
   justify-content: space-between;
   font-weight: bolder;
   margin-bottom: 5px;
+  color: white;
 }
 
 #div-options-list {

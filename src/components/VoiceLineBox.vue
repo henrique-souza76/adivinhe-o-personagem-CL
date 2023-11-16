@@ -18,6 +18,7 @@ export default {
   min-height: fit-content;
   font-style: italic;
   border: 1px solid black;
+  background-color: white;
   padding: 10px;
   border-radius: 5px;
 }

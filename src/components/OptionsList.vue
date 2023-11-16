@@ -33,7 +33,7 @@ export default {
 img {
     cursor: pointer;
     border-radius: 50%;
-    border: 2.5px solid black;
+    border: 2.5px solid white;
     width: 80px;
     height: 80px;
 }

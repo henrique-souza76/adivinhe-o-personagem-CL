@@ -33,7 +33,7 @@ span::after {
 
 @media (max-width: 390px) {
     #content {
-        font-size: 18px;
+        font-size: 17px;
     }
 
     span {
