@@ -22,8 +22,8 @@
       </div>
       <span id="link"><small-button :close="true"/></span>
     </div>
-    <game-over-modal v-show="showGameOverModal" text="DERROTA" receiver="game2"/>
-    <game-over-modal v-show="showGameWinnerModal" text="VITÓRIA" receiver="game2"/>
+    <game-over-modal v-show="showGameOverModal" text="DERROTA"/>
+    <game-over-modal v-show="showGameWinnerModal" text="VITÓRIA"/>
   </div>
 </template>
 <script>

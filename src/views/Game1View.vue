@@ -12,8 +12,8 @@
         <options-list :imgs="imgs" :rightAnswer="right_option" @mistake="gameOver" @hit="gameContinue" />
       </div>
     </div>
-    <game-over-modal v-show="showGameOverModal" text="DERROTA" receiver="game1"/>
-    <game-over-modal v-show="showGameWinnerModal" text="VITÓRIA" receiver="game1"/>
+    <game-over-modal v-show="showGameOverModal" text="DERROTA"/>
+    <game-over-modal v-show="showGameWinnerModal" text="VITÓRIA"/>
   </div>
 </template>
 <script>

@@ -13,7 +13,7 @@ export default {
     emits: ["hit", "mistake"],
     methods: {
         checkAnswer(answer) {
-            if(answer === this.rightAnswer) {
+            if(answer.includes(this.rightAnswer)) {
                 this.$emit("hit")
             } else {
                 this.$emit("mistake")

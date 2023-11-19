@@ -3,6 +3,7 @@
         <div id="options">
             <game-option text="Adivinhar Pelas Falas" :action="() => redirectToGame1()" />
             <game-option text="Adivinhar Pelas Skins" :action="() => redirectToGame2()" />
+            <game-option text="Adivinhar Pelas Habilidades" :action="() => redirectToGame3()" />
         </div>
     </div>
 </template>
@@ -25,6 +26,9 @@ export default {
         },
         redirectToGame2() {
             this.$router.push({name: 'game2'})
+        },
+        redirectToGame3() {
+            this.$router.push({name: 'game3'})
         }
     }
 }

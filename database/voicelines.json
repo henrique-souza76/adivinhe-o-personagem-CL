@@ -27,7 +27,7 @@
         },
         {
             "voiceline": "“Não haverá nada além de desespero!”",
-            "options": ["Keth", "Brando", "Scorpius", "Clawdia", "Zoya"],
+            "options": ["Keth", "Brunhild", "Scorpius", "Clawdia", "Zoya"],
             "rightoption": "Keth"
         },
         {
@@ -266,7 +266,7 @@
             "rightoption": "Natasha"
         },
         {
-            "voiceline": "“Se me encarar muito, vai se apaixonar.”",
+            "voiceline": "“Ah... Se me encarar muito, vai se apaixonar.”",
             "options": ["Zoya", "Aramis", "Adele", "Oboro", "Salome"],
             "rightoption": "Salome"
         },
@@ -774,6 +774,171 @@
             "voiceline": "“Que comece o banquete!”",
             "options": ["Keth", "Loth", "Mina", "Clawdia", "Orsour"],
             "rightoption": "Keth"
+        },
+        {
+            "voiceline": "“Hahahaha... cara, eu tô só começando!”",
+            "options": ["Memphis", "Mina", "Loth", "Reisa", "Zoya"],
+            "rightoption": "Reisa"
+        },
+        {
+            "voiceline": "“Será tarde demais quando você ver o reflexo.”",
+            "options": ["Valena", "Styx", "Christine", "Kyouya", "Tigria"],
+            "rightoption": "Valena"
+        },
+        {
+            "voiceline": "“Quem sou eu..? Quem devo matar?”",
+            "options": ["Kyouya", "Memphis", "Aramis", "Scorpius", "Styx"],
+            "rightoption": "Styx"
+        },
+        {
+            "voiceline": "“Quer um autógrafo?”",
+            "options": ["Natasha", "Loth", "Aramis", "Winona", "Chloe"],
+            "rightoption": "Aramis"
+        },
+        {
+            "voiceline": "“Você não é páreo para mim!”",
+            "options": ["Kyouya", "Hagen", "Xenon", "Oboro", "Brando"],
+            "rightoption": "Kyouya"
+        },
+        {
+            "voiceline": "“Vai, Big White, pula!”",
+            "options": ["Judith", "Eida", "Idony", "Tigria", "Zoya"],
+            "rightoption": "Tigria"
+        },
+        {
+            "voiceline": "“Esse combate terá um novo capítulo. Que a batalha recomece!”",
+            "options": ["Naraku", "Kyouya", "Oboro", "Reisa", "Zoya"],
+            "rightoption": "Kyouya"
+        },
+        {
+            "voiceline": "“Morrer..? Mas... Eu..?”",
+            "options": ["Memphis", "Brunhild", "Styx", "Kyouya", "Keth"],
+            "rightoption": "Kyouya"
+        },
+        {
+            "voiceline": "“Volte aqui!”",
+            "options": ["Idony", "Austeja", "Keth", "Norah", "Orsour"],
+            "rightoption": "Austeja"
+        },
+        {
+            "voiceline": "“Estraga-prazeres não merecem a minha hospitalidade!”",
+            "options": ["Natasha", "Mina", "Loth", "Cleo", "Austeja"],
+            "rightoption": "Austeja"
+        },
+        {
+            "voiceline": "“Não a machuque!”",
+            "options": ["Idony", "Eida", "Austeja", "Tigria", "Mina"],
+            "rightoption": "Austeja"
+        },
+        {
+            "voiceline": "“Eu vos trago um mundo sem esperança.”",
+            "options": ["Zoya", "Keth", "Loth", "Naraku", "Austeja"],
+            "rightoption": "Keth"
+        },
+        {
+            "voiceline": "“Vossa alma saciará o meu deus.”",
+            "options": ["Scorpius", "Hagen", "Memphis", "Keth", "Brunhild"],
+            "rightoption": "Keth"
+        },
+        {
+            "voiceline": "“Aqui vai a flecha da morte.”",
+            "options": ["Valena", "Scorpius", "Tigria", "Aramis", "Adele"],
+            "rightoption": "Scorpius"
+        },
+        {
+            "voiceline": "“Ah que saudade do deserto.”",
+            "options": ["Memphis", "Wulfric", "Cleo", "Joy", "Austeja"],
+            "rightoption": "Memphis"
+        },
+        {
+            "voiceline": "“Eu só estou aquecendo.”",
+            "options": ["Clawdia", "Tigria", "Nivan", "Winona", "Chloe"],
+            "rightoption": "Chloe"
+        },
+        {
+            "voiceline": "“É hora do julgamento!”",
+            "options": ["Loth", "Hagen", "Mikal", "Christine", "Chloe"],
+            "rightoption": "Christine"
+        },
+        {
+            "voiceline": "“Ih Ha!”",
+            "options": ["Lars", "Mina", "Reisa", "Idony", "Eida"],
+            "rightoption": "Eida"
+        },
+        {
+            "voiceline": "“Toma essa!”",
+            "options": ["Salome", "Orsour", "Nivan", "Oboro", "Eida"],
+            "rightoption": "Eida"
+        },
+        {
+            "voiceline": "“Você é um pecador.”",
+            "options": ["Oboro", "Loth", "Hagen", "Eida", "Garsea"],
+            "rightoption": "Hagen"
+        },
+        {
+            "voiceline": "“Seja bem-vindo ao reino da escuridão.”",
+            "options": ["Nivan", "Zoya", "Loth", "Hagen", "Orsour"],
+            "rightoption": "Hagen"
+        },
+        {
+            "voiceline": "“Eu lhe ofereço a redenção!”",
+            "options": ["Morus", "Norah", "Hagen", "Keth", "Mikal"],
+            "rightoption": "Morus"
+        },
+        {
+            "voiceline": "“Marionete inútil...”",
+            "options": ["Zoya", "Keth", "Morus", "Styx", "Kyouya"],
+            "rightoption": "Morus"
+        },
+        {
+            "voiceline": "“O que está morto não pode morrer.”",
+            "options": ["Wulfric", "Renee", "Norah", "Morus", "Salome"],
+            "rightoption": "Morus"
+        },
+        {
+            "voiceline": "“Esqueça o passado, deixo apenas ódio e lâminas para trás.”",
+            "options": ["Zoya", "Styx", "Oboro", "Naraku", "Kyouya"],
+            "rightoption": "Naraku"
+        },
+        {
+            "voiceline": "“Em nome do caos!”",
+            "options": ["Xenon", "Keth", "Morus", "Naraku", "Raven"],
+            "rightoption": "Naraku"
+        },
+        {
+            "voiceline": "“Com o tempo, a neve irá soterrar tudo!”",
+            "options": ["Brando", "Keth", "Morus", "Naraku", "Natasha"],
+            "rightoption": "Natasha"
+        },
+        {
+            "voiceline": "“Ninguém pode vencer o gelo!”",
+            "options": ["Xenon", "Tigria", "Natasha", "Winona", "Nivan"],
+            "rightoption": "Natasha"
+        },
+        {
+            "voiceline": "“Chega de meditação, é hora de lutar.”",
+            "options": ["Brando", "Valena", "Oboro", "Nivan", "Raven"],
+            "rightoption": "Nivan"
+        },
+        {
+            "voiceline": "“Vai doer... mas prometo que você vai gostar.”",
+            "options": ["Xenon", "Scorpius", "Morus", "Salome", "Raven"],
+            "rightoption": "Salome"
+        },
+        {
+            "voiceline": "“Hoje vocês são os meus brinquedinhos.”",
+            "options": ["Xenon", "Keth", "Morus", "Natasha", "Salome"],
+            "rightoption": "Salome"
+        },
+        {
+            "voiceline": "“Todo homem também é uma fera.”",
+            "options": ["Memphis", "Mikal", "Orsour", "Cleo", "Wulfric"],
+            "rightoption": "Orsour"
+        },
+        {
+            "voiceline": "“Tô só me aquecendo.”",
+            "options": ["Xenon", "Salome", "Orsour", "Morus", "Garsea"],
+            "rightoption": "Orsour"
         }
     ]
 }
