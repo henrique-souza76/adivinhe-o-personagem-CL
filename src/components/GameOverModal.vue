@@ -42,7 +42,6 @@ export default {
     width: 400px;
     height: 200px;
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.329);
-    border-radius: 10px;
     background-image: linear-gradient(to bottom, #1F3170, #4289E0 50%);
 }
 
@@ -53,7 +52,7 @@ export default {
     background-clip: initial;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    border-radius: 5px 5px 0 0;
+    border-radius: 10px 10px 0 0;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -65,7 +64,7 @@ export default {
     justify-content: center;
     height: 130px;
     background: linear-gradient(to bottom, #D4AE73, #F4E9D9 110%);
-    border-radius: 0 0 5px 5px;
+    border-radius: 0 0 10px 10px;
 }
 
 #button-div {
