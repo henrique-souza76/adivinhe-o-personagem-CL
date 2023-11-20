@@ -43,6 +43,7 @@ export default {
     height: 200px;
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.329);
     background-image: linear-gradient(to bottom, #1F3170, #4289E0 50%);
+    border-radius: 10px;
 }
 
 #top {
@@ -52,7 +53,6 @@ export default {
     background-clip: initial;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    border-radius: 10px 10px 0 0;
     display: flex;
     align-items: center;
     justify-content: center;
