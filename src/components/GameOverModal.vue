@@ -1,10 +1,12 @@
 <template>
 <div id="backdrop">
     <div id="main-modal">
-        <h1>{{text}}</h1>
-        <div id="button-div">
-            <small-button :retry="true" />
-            <small-button :close="true" />
+        <div id="top"><h1>{{text}}</h1></div>
+        <div id="bottom">
+            <div id="button-div">
+                <small-button :retry="true" />
+                <small-button :close="true" />
+            </div>
         </div>
     </div>
 </div>
@@ -39,12 +41,30 @@ export default {
 #main-modal {
     width: 400px;
     height: 200px;
-    background-color: white;
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.329);
     border-radius: 10px;
-    padding: 10px;
+    background-image: linear-gradient(to bottom, #1F3170, #4289E0 50%);
+}
+
+#top {
+    width: 100%;
+    height: 70px;
+    background: linear-gradient(to bottom, #f0f0f0 200%, #dfd0d0);
+    background-clip: initial;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    border-radius: 5px 5px 0 0;
     display: flex;
-    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#bottom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 130px;
+    background: linear-gradient(to bottom, #D4AE73, #F4E9D9 110%);
 }
 
 #button-div {
