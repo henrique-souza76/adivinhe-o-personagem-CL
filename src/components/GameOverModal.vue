@@ -65,6 +65,7 @@ export default {
     justify-content: center;
     height: 130px;
     background: linear-gradient(to bottom, #D4AE73, #F4E9D9 110%);
+    border-radius: 0 0 5px 5px;
 }
 
 #button-div {
