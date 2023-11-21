@@ -62,7 +62,7 @@ span::after {
     }
 } 
 
-@media(min-width: 390px) and (max-width: 392px) {
+@media(min-width: 390px) and (max-width: 411px) {
     #content {
         font-size: 20px;
     }
