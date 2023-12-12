@@ -1,5 +1,4 @@
 <template>
-  <p-w-a />
   <div id="home">
       <div id="title">
         <home-title />
@@ -13,14 +12,12 @@
 <script>
 import HomeTitle from '@/components/HomeTitle.vue'
 import HomeGames from '@/components/HomeGames.vue'
-import PWA from '@/components/PWA.vue'
 
 export default {
   name: 'HomeView',
   components: {
     HomeTitle,
-    HomeGames,
-    PWA
+    HomeGames
   }
 }
 </script>
