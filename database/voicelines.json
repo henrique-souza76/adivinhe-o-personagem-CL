@@ -939,6 +939,41 @@
             "voiceline": "“Tô só me aquecendo.”",
             "options": ["Xenon", "Salome", "Orsour", "Morus", "Garsea"],
             "rightoption": "Orsour"
+        },
+        {
+            "voiceline": "“Escute bem de perto.”",
+            "options": ["Adele", "Mikal", "Winona", "Morus", "Scorpius"],
+            "rightoption": "Morus"
+        },
+        {
+            "voiceline": "“Ouça os servos do abismo.”",
+            "options": ["Loth", "Morus", "Brunhild", "Natasha", "Salome"],
+            "rightoption": "Morus"
+        },
+        {
+            "voiceline": "“Sinta o abismo interior.”",
+            "options": ["Morus", "Wulfric", "Reisa", "Eida", "Clawdia"],
+            "rightoption": "Morus"
+        },
+        {
+            "voiceline": "“Peum peum peum.”",
+            "options": ["Mikal", "Raven", "Tigria", "Valena", "Morus"],
+            "rightoption": "Morus"
+        },
+        {
+            "voiceline": "“Este lugar está cheio de fantoches.”",
+            "options": ["Scorpius", "Brando", "Morus", "Lars", "Tigria"],
+            "rightoption": "Morus"
+        },
+        {
+            "voiceline": "“Sou o profeta do juízo final.”",
+            "options": ["Morus", "Lars", "Wulfric", "Orsour", "Norah"],
+            "rightoption": "Morus"
+        },
+        {
+            "voiceline": "“Sinto o fim se aproximar.”",
+            "options": ["Cleo", "Salome", "Aramis", "Naraku", "Morus"],
+            "rightoption": "Morus"
         }
     ]
 }
