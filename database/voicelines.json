@@ -991,14 +991,14 @@
             "rightoption": "Lars"
         },
         {
-            "voiceline": "“Não a nada como combinar percusão e luta!”",
+            "voiceline": "“Não há nada como combinar percusão e luta!”",
             "options": ["Brunhild", "Mikal", "Lars", "Nivan", "Cleo"],
             "rightoption": "Lars"
         },
         {
             "voiceline": "“Prontos pro show?”",
             "options": ["Chloe", "Raven", "Aramis", "Mina", "Winona"],
-            "rightoption": "Morus"
+            "rightoption": "Chloe"
         },
         {
             "voiceline": "“Provarei pelo combate que Arieo e eu ainda existimos!”",
@@ -1006,7 +1006,7 @@
             "rightoption": "Garsea"
         },
         {
-            "voiceline": "“Venha... vamos treinas uns movimentos...”",
+            "voiceline": "“Venha... vamos treinar alguns movimentos...”",
             "options": ["Cleo", "Garsea", "Aramis", "Kyouya", "Brunhild"],
             "rightoption": "Garsea"
         },
@@ -1036,17 +1036,17 @@
             "rightoption": "Wulfric"
         },
         {
-            "voiceline": "“Ah pare de me encarar, tenha respeito.”",
+            "voiceline": "“Ah... pare de me encarar, tenha respeito.”",
             "options": ["Loth", "Salome", "Hagen", "Naraku", "Tigria"],
             "rightoption": "Salome"
         },
         {
-            "voiceline": "“A minha lamina me guiou até aqui.”",
+            "voiceline": "“A minha lâmina me guiou até aqui.”",
             "options": ["Kyouya", "Styx", "Zoya", "Naraku", "Oboro"],
             "rightoption": "Kyouya"
         },
         {
-            "voiceline": "“Eu aceito seu desafio.”",
+            "voiceline": "“Eu aceito o seu desafio.”",
             "options": ["Wulfric", "Kyouya", "Styx", "Aramis", "Xenon"],
             "rightoption": "Kyouya"
         },
@@ -1056,7 +1056,7 @@
             "rightoption": "Idony"
         },
         {
-            "voiceline": "“É bom aproveitar, enquanto respira...”",
+            "voiceline": "“É bom aproveitar enquanto respira...”",
             "options": ["Hagen", "Orsour", "Valena", "Naraku", "Wulfric"],
             "rightoption": "Orsour"
         },
@@ -1071,7 +1071,7 @@
             "rightoption": "Judith"
         },
         {
-            "voiceline": "“Sou gentil... Mas as minhas garras... machucam...”",
+            "voiceline": "“Sou gentil... mas as minhas garras... machucam...”",
             "options": ["Raven", "Salome", "Oboro", "Orsour", "Clawdia"],
             "rightoption": "Raven"
         },
@@ -1081,7 +1081,7 @@
             "rightoption": "Christine"
         },
         {
-            "voiceline": "“Eu aceito as trevas com toda minha delicadeza.”",
+            "voiceline": "“Eu aceito as trevas com toda a minha delicadeza.”",
             "options": ["Hagen", "Salome", "Loth", "Clawdia", "Morus"],
             "rightoption": "Hagen"
         },
@@ -1146,12 +1146,12 @@
             "rightoption": "Valena"
         },
         {
-            "voiceline": "“Juntos... Somos os protetores da floresta.”",
+            "voiceline": "“Juntos... somos os protetores da floresta.”",
             "options": ["Orsour", "Tigria", "Idony", "Eida", "Brando"],
             "rightoption": "Tigria"
         },
         {
-            "voiceline": "“Esse é o Big White... Ele não é adoravél?”",
+            "voiceline": "“Esse é o Big White, ele não é adoravél?”",
             "options": ["Tigria", "Orsour", "Wulfric", "Idony", "Eida"],
             "rightoption": "Tigria"
         },
@@ -1166,7 +1166,7 @@
             "rightoption": "Morus"
         },
         {
-            "voiceline": "“Se eu abrir o meu livro... Não vai sobrar ninguém.”",
+            "voiceline": "“Se eu abrir o meu livro, não vai sobrar ninguém.”",
             "options": ["Reisa", "Winona", "Loth", "Joy", "Hagen"],
             "rightoption": "Winona"
         },
@@ -1176,7 +1176,7 @@
             "rightoption": "Winona"
         },
         {
-            "voiceline": "“Quem é a melhor maga de todas? Isso mesmo, sou eu!”",
+            "voiceline": "“Quem é a melhor maga de todas? Acertou, sou eu!”",
             "options": ["Winona", "Salome", "Loth", "Chloe", "Reisa"],
             "rightoption": "Winona"
         },
@@ -1186,12 +1186,12 @@
             "rightoption": "Mikal"
         },
         {
-            "voiceline": "“Com a minha espada, eu sirvo a luz.”",
+            "voiceline": "“Com a minha espada, eu sirvo à luz.”",
             "options": ["Mikal", "Christine", "Brunhild", "Kyouya", "Styx"],
             "rightoption": "Mikal"
         },
         {
-            "voiceline": "“Não mexa comigo, se não cortarei você em pedaços.”",
+            "voiceline": "“Não mexa comigo, senão cortarei você em pedaços.”",
             "options": ["Brunhild", "Clawdia", "Zoya", "Raven", "Valena"],
             "rightoption": "Brunhild"
         },
@@ -1201,12 +1201,12 @@
             "rightoption": "Brunhild"
         },
         {
-            "voiceline": "“Você quer lutar comigo? Ha, continue sonhando.”",
+            "voiceline": "“Você quer lutar? Comigo? Ha, continue sonhando.”",
             "options": ["Xenon", "Cleo", "Wulfric", "Orsour", "Brunhild"],
             "rightoption": "Cleo"
         },
         {
-            "voiceline": "“Sei acertar um inimigo no ângulo perfeito.”",
+            "voiceline": "“Sei acertar o inimigo no ângulo perfeito.”",
             "options": ["Cleo", "Adele", "Aramis", "Hagen", "Naraku"],
             "rightoption": "Cleo"
         },
@@ -1216,11 +1216,9 @@
             "rightoption": "Renee"
         },
         {
-            "voiceline": "“Ah... Eu tomei a pílula vermelha? Até onde vai a toca do coelho...”",
+            "voiceline": "“Hã... eu tomei a pílula vermelha? Até onde vai a toca do coelho?”",
             "options": ["Renee", "Adele", "Aramis", "Reisa", "Raven"],
             "rightoption": "Renee"
         }
-        
-        
-    ]   
+    ]
 }
