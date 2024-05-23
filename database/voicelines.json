@@ -776,7 +776,7 @@
             "rightoption": "Keth"
         },
         {
-            "voiceline": "“Hahahaha... cara, eu tô só começando!”",
+            "voiceline": "“Cara, hahahaha... eu tô só começando!”",
             "options": ["Memphis", "Mina", "Loth", "Reisa", "Zoya"],
             "rightoption": "Reisa"
         },
@@ -1270,5 +1270,130 @@
             "options": ["Norah", "Garsea", "Keth", "Memphis", "Xenon"],
             "rightoption": "Norah"
         },
+        {
+            "voiceline": "“Touch Screen, mais fácil que apertar uma tecla.”",
+            "options": ["Joy", "Idony", "Renee", "Tigria", "Chloe"],
+            "rightoption": "Renee"
+        },
+        {
+            "voiceline": "“Retrotequirado!”",
+            "options": ["Renee", "Norah", "Reisa", "Nivan", "Hagen"],
+            "rightoption": "Renee"
+        },
+        {
+            "voiceline": "“Tá na hora de revidarmos!”",
+            "options": ["Garsea", "Keth", "Nivan", "Renee", "Styx"],
+            "rightoption": "Renee"
+        },
+        {
+            "voiceline": "“Esse mundo parece um videogame, parece um pouco o meu mundo!”",
+            "options": ["Natasha", "Renee", "Lars", "Loth", "Xenon"],
+            "rightoption": "Renee"
+        },
+        {
+            "voiceline": "“Eu acho que vi um gatinho preto, de novo.”",
+            "options": ["Clawdia", "Adele", "Raven", "Wulfric", "Renee"],
+            "rightoption": "Renee"
+        },
+        {
+            "voiceline": "“É hora de colocar os experimentos em prática!”",
+            "options": ["Reisa", "Garsea", "Brunhild", "Chloe", "Joy"],
+            "rightoption": "Reisa"
+        },
+        {
+            "voiceline": "“A alquimia é ciência pura!”",
+            "options": ["Cleo", "Orsour", "Reisa", "Mikal", "Xenon"],
+            "rightoption": "Reisa"
+        },
+        {
+            "voiceline": "“Tá na hora de outra dose.”",
+            "options": ["Naraku", "Clawdia", "Scorpius", "Judith", "Reisa"],
+            "rightoption": "Reisa"
+        },
+        {
+            "voiceline": "“Cuidado! Pode explodir.”",
+            "options": ["Norah", "Reisa", "Keth", "Memphis", "Orsour"],
+            "rightoption": "Reisa"
+        },
+        {
+            "voiceline": "“Os elementos vão reagir... agora!”",
+            "options": ["Norah", "Styx", "Zoya", "Reisa", "Xenon"],
+            "rightoption": "Reisa"
+        },
+        {
+            "voiceline": "“Carregar esse trombolho me dá uma dor nas costas...”",
+            "options": ["Reisa", "Austeja", "Valena", "Idony", "Oboro"],
+            "rightoption": "Reisa"
+        },
+        {
+            "voiceline": "“Chega mais... vem ver a explosão.”",
+            "options": ["Scorpius", "Nivan", "Reisa", "Memphis", "Kyouya"],
+            "rightoption": "Reisa"
+        },
+        {
+            "voiceline": "“Homúnculo!”",
+            "options": ["Reisa", "Joy", "Keth", "Eida", "Hagen"],
+            "rightoption": "Reisa"
+        },
+        {
+            "voiceline": "“É um milagre... vem meu amigo!”",
+            "options": ["Norah", "Aramis", "Cleo", "Brando", "Reisa"],
+            "rightoption": "Reisa"
+        },
+        {
+            "voiceline": "“Deixa eu analisar o componente...”",
+            "options": ["Zoya", "Natasha", "Reisa", "Hagen", "Nivan"],
+            "rightoption": "Reisa"
+        },
+        {
+            "voiceline": "“O show não pode parar!”",
+            "options": ["Lars", "Chloe", "Winona", "Eida", "Natasha"],
+            "rightoption": "Lars"
+        },
+        {
+            "voiceline": "“Malditos!”",
+            "options": ["Xenon", "Naraku", "Loth", "Lars", "Kyouya"],
+            "rightoption": "Lars"
+        },
+        {
+            "voiceline": "“Cuidado! Pra não virar do avesso!”",
+            "options": ["Clawdia", "Garsea", "Lars", "Memphis", "Brando"],
+            "rightoption": "Lars"
+        },
+        {
+            "voiceline": "“Esse som vai mexer com a sua alma!”",
+            "options": ["Lars", "Morus", "Raven", "Nivan", "Orsour"],
+            "rightoption": "Lars"
+        },
+        {
+            "voiceline": "“Todo mundo pode me ouvir!”",
+            "options": ["Norah", "Chloe", "Idony", "Mina", "Lars"],
+            "rightoption": "Lars"
+        },
+        {
+            "voiceline": "“Isso vai te surpreender!”",
+            "options": ["Brando", "Mina", "Keth", "Lars", "Oboro"],
+            "rightoption": "Lars"
+        },
+        {
+            "voiceline": "“Essa batida não te dá vontade de dançar?!”",
+            "options": ["Eida", "Mina", "Winona", "Lars", "Valena"],
+            "rightoption": "Lars"
+        },
+        {
+            "voiceline": "“Cadê a minha plateia?!”",
+            "options": ["Lars", "Garsea", "Austeja", "Memphis", "Salome"],
+            "rightoption": "Lars"
+        },
+        {
+            "voiceline": "“Solta o som!”",
+            "options": ["Lars", "Garsea", "Winona", "Chloe", "Mina"],
+            "rightoption": "Lars"
+        },
+        {
+            "voiceline": "“Cadê os meus aplausos?”",
+            "options": ["Lars", "Garsea", "Judith", "Tigria", "Valena"],
+            "rightoption": "Lars"
+        }
     ]
 }
