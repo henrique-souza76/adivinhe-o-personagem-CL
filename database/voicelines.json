@@ -1219,6 +1219,56 @@
             "voiceline": "“Hã... eu tomei a pílula vermelha? Até onde vai a toca do coelho?”",
             "options": ["Renee", "Adele", "Aramis", "Reisa", "Raven"],
             "rightoption": "Renee"
-        }
+        },
+        {
+            "voiceline": "“Hora de hackear!”",
+            "options": ["Styx", "Valena", "Renee", "Orsour", "Clawdia"],
+            "rightoption": "Renee"
+        },
+        {
+            "voiceline": "“Depois de morrer, a gente vira um... código?”",
+            "options": ["Aramis", "Naraku", "Renee", "Mina", "Mikal"],
+            "rightoption": "Renee"
+        },
+        {
+            "voiceline": "“Ataque ao servidor!”",
+            "options": ["Adele", "Judith", "Memphis", "Renee", "Reisa"],
+            "rightoption": "Renee"
+        },
+        {
+            "voiceline": "“Ninguém pode me impedir de descobrir a verdade.”",
+            "options": ["Scorpius", "Christine", "Aramis", "Renee", "Lars"],
+            "rightoption": "Renee"
+        },
+        {
+            "voiceline": "“Eu tenho o fluxo de dados nas minhas mãos.”",
+            "options": ["Joy", "Renee", "Reisa", "Cleo", "Winona"],
+            "rightoption": "Renee"
+        },
+        {
+            "voiceline": "“Toma um Cavalo de Tróia de presente!”",
+            "options": ["Eida", "Renee", "Wulfric", "Lars", "Raven"],
+            "rightoption": "Renee"
+        },
+        {
+            "voiceline": "“Isso é a realidade ou uma simulação?”",
+            "options": ["Joy", "Brunhild", "Renee", "Adele", "Norah"],
+            "rightoption": "Renee"
+        },
+        {
+            "voiceline": "“Hora de te desativar!”",
+            "options": ["Renee", "Cleo", "Winona", "Wulfric", "Orsour"],
+            "rightoption": "Renee"
+        },
+        {
+            "voiceline": "“Eu darei o meu melhor em nome da justiça!”",
+            "options": ["Mikal", "Brando", "Norah", "Reisa", "Valena"],
+            "rightoption": "Norah"
+        },
+        {
+            "voiceline": "“Mostrarei o poder dos meus punhos de ferro!”",
+            "options": ["Norah", "Garsea", "Keth", "Memphis", "Xenon"],
+            "rightoption": "Norah"
+        },
     ]
 }
