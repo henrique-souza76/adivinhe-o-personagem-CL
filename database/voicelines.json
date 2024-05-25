@@ -436,7 +436,7 @@
             "rightoption": "Judith"
         },
         {
-            "voiceline": "“Isso é pelo meu mestre!”",
+            "voiceline": "“Essa é pelo meu mestre!”",
             "options": ["Styx", "Garsea", "Kyouya", "Norah", "Joy"],
             "rightoption": "Norah"
         },
@@ -1424,6 +1424,46 @@
             "voiceline": "“Lalalalalalala.”",
             "options": ["Winona", "Eida", "Idony", "Joy", "Natasha"],
             "rightoption": "Eida"
+        },
+        {
+            "voiceline": "“Não há outra escolha!”",
+            "options": ["Loth", "Keth", "Wulfric", "Scorpius", "Naraku"],
+            "rightoption": "Scorpius"
+        },
+        {
+            "voiceline": "“Mantenha o foco!”",
+            "options": ["Joy", "Mina", "Reisa", "Oboro", "Norah"],
+            "rightoption": "Norah"
+        },
+        {
+            "voiceline": "“Essa vai doer!”",
+            "options": ["Norah", "Salome", "Xenon", "Aramis", "Austeja"],
+            "rightoption": "Norah"
+        },
+        {
+            "voiceline": "“Determinação!”",
+            "options": ["Eida", "Norah", "Natasha", "Clawdia", "Zoya"],
+            "rightoption": "Norah"
+        },
+        {
+            "voiceline": "“Fique alerta.”",
+            "options": ["Nivan", "Loth", "Norah", "Clawdia", "Raven"],
+            "rightoption": "Norah"
+        },
+        {
+            "voiceline": "“Mas foi só... um arranhão.”",
+            "options": ["Mikal", "Styx", "Norah", "Judith", "Zoya"],
+            "rightoption": "Norah"
+        },
+        {
+            "voiceline": "“Atravessando as trevas!”",
+            "options": ["Norah", "Christine", "Cleo", "Mikal", "Brunhild"],
+            "rightoption": "Norah"
+        },
+        {
+            "voiceline": "“A minha busca começou.”",
+            "options": ["Kyouya", "Morus", "Brando", "Styx", "Norah"],
+            "rightoption": "Norah"
         }
     ]
 }
