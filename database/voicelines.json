@@ -991,7 +991,7 @@
             "rightoption": "Lars"
         },
         {
-            "voiceline": "“Não há nada como combinar percusão e luta!”",
+            "voiceline": "“Não há nada como combinar percussão e luta!”",
             "options": ["Brunhild", "Mikal", "Lars", "Nivan", "Cleo"],
             "rightoption": "Lars"
         },
@@ -1394,6 +1394,36 @@
             "voiceline": "“Cadê os meus aplausos?”",
             "options": ["Lars", "Garsea", "Judith", "Tigria", "Valena"],
             "rightoption": "Lars"
+        },
+        {
+            "voiceline": "“Kaboom!”",
+            "options": ["Loth", "Winona", "Eida", "Tigria", "Valena"],
+            "rightoption": "Eida"
+        },
+        {
+            "voiceline": "“Atenção, olha pra mim!”",
+            "options": ["Winona", "Loth", "Chloe", "Eida", "Aramis"],
+            "rightoption": "Eida"
+        },
+        {
+            "voiceline": "“Vem comigo!”",
+            "options": ["Keth", "Eida", "Idony", "Hagen", "Eida"],
+            "rightoption": "Eida"
+        },
+        {
+            "voiceline": "“Lá vai bomba!”",
+            "options": ["Eida", "Salome", "Mina", "Scorpius", "Norah"],
+            "rightoption": "Eida"
+        },
+        {
+            "voiceline": "“Ai, tá perigoso aqui...”",
+            "options": ["Mina", "Renee", "Salome", "Eida", "Loth"],
+            "rightoption": "Eida"
+        },
+        {
+            "voiceline": "“Lalalalalalala.”",
+            "options": ["Winona", "Eida", "Idony", "Joy", "Natasha"],
+            "rightoption": "Eida"
         }
     ]
 }
