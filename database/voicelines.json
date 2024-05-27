@@ -1464,6 +1464,76 @@
             "voiceline": "“A minha busca começou.”",
             "options": ["Kyouya", "Morus", "Brando", "Styx", "Norah"],
             "rightoption": "Norah"
+        },
+        {
+            "voiceline": "“Como sempre, eu estou pronto para triunfar!”",
+            "options": ["Aramis", "Styx", "Salome", "Loth", "Winona"],
+            "rightoption": "Aramis"
+        },
+        {
+            "voiceline": "“Velocidade da luz!”",
+            "options": ["Kyouya", "Oboro", "Aramis", "Renee", "Tigria"],
+            "rightoption": "Aramis"
+        },
+        {
+            "voiceline": "“Ataque surpresa!”",
+            "options": ["Orsour", "Aramis", "Raven", "Mina", "Memphis"],
+            "rightoption": "Aramis"
+        },
+        {
+            "voiceline": "“Ralé imunda!”",
+            "options": ["Brunhild", "Austeja", "Natasha", "Loth", "Aramis"],
+            "rightoption": "Aramis"
+        },
+        {
+            "voiceline": "“Você não desiste?”",
+            "options": ["Winona", "Xenon", "Brando", "Aramis", "Lars"],
+            "rightoption": "Aramis"
+        },
+        {
+            "voiceline": "“Atacar!”",
+            "options": ["Aramis", "Wulfric", "Mikal", "Cleo", "Brunhild"],
+            "rightoption": "Aramis"
+        },
+        {
+            "voiceline": "“Eu não... esperava por isso.”",
+            "options": ["Clawdia", "Aramis", "Salome", "Loth", "Keth"],
+            "rightoption": "Aramis"
+        },
+        {
+            "voiceline": "“Eu aprendo com cada erro.”",
+            "options": ["Garsea", "Styx", "Aramis", "Joy", "Reisa"],
+            "rightoption": "Aramis"
+        },
+        {
+            "voiceline": "“Que tal uma bala?”",
+            "options": ["Eida", "Valena", "Renee", "Scorpius", "Aramis"],
+            "rightoption": "Aramis"
+        },
+        {
+            "voiceline": "“Eu sou bom demais!”",
+            "options": ["Aramis", "Hagen", "Cleo", "Garsea", "Lars"],
+            "rightoption": "Aramis"
+        },
+        {
+            "voiceline": "“Eu gostaria de um bom desafio.”",
+            "options": ["Aramis", "Nivan", "Cleo", "Idony", "Xenon"],
+            "rightoption": "Aramis"
+        },
+        {
+            "voiceline": "“Hã, isso vai ser fácil.”",
+            "options": ["Mina", "Winona", "Naraku", "Aramis", "Kyouya"],
+            "rightoption": "Aramis"
+        },
+        {
+            "voiceline": "“Minhas balas estão prontas para atacar.”",
+            "options": ["Adele", "Aramis", "Tigria", "Zoya", "Judith"],
+            "rightoption": "Aramis"
+        },
+        {
+            "voiceline": "“O experimento... falhou.”",
+            "options": ["Keth", "Memphis", "Reisa", "Joy", "Winona"],
+            "rightoption": "Reisa"
         }
     ]
 }
